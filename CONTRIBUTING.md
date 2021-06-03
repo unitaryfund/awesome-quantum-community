@@ -1,4 +1,5 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
 - Search the current list and pull requests to avoid adding duplicates.
 - Make sure the community has been active in the last year.
@@ -12,4 +13,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add related links and projects to the into section at the top
 
-Thank you for your [suggestions](../../edit/master/README.md)! 💛🌴
+Thank you for your [suggestions](https://github.com/unitaryfund/awesome-quantum-community/issues)! 💛🌴
