@@ -1,7 +1,7 @@
 # awesome-quantum-community
-A meta list of quantum technology communities
+A meta list of quantum technology communities.
 
-Quantum technology is a rapidly growing field with many different diciplines participating to make this tech a reality. This also means there is a wide variety of 
+Quantum technology is a rapidly growing field with many different diciplines participating to make this tech a reality. This also means there is a wide variety of.
 
 This is a curated list of up-to-date and active communities involved in the quantum technology space. there are other great awesome lists for [quantum computing](https://github.com/desireevl/awesome-quantum-computing#:~:text=Awesome%20Quantum%20Computing%20Quantum%20computing%20utilises%20quantum%20mechanical,as%20well%20as%20resources%20to%20learn%20about%20them.) and [quantum software](https://github.com/qosf/awesome-quantum-software) if you are looking for those types of resources.
 
@@ -29,7 +29,7 @@ This is a curated list of up-to-date and active communities involved in the quan
 ### Research diciplines
 
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
-- 
+
 ### Quantum Software/Infrastructure
 
 - [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) - D-Wave System's Leap Community Forum. 
@@ -41,7 +41,5 @@ This is a curated list of up-to-date and active communities involved in the quan
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 
 ## Communities with specific membership
-
-
 
 
